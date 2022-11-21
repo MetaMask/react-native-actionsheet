@@ -50,5 +50,9 @@
   },
   "standard": {
     "parser": "babel-eslint"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
